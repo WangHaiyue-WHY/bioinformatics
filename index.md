@@ -12,7 +12,7 @@
 - 提出问题-获取信息-分析-建模
 #### B. 提出问题
 - 问题种类：Biological/Medical，eg.为什么人类的基因这么少？
-- 回答问题——需要技术：**RNG**，**R**obot、**N**ano technology、**G**enetics
+- 回答问题—需要技术：**RNG**，**R**obot、**N**ano technology、**G**enetics
 #### C. 获取信息
 - 生物医学数据，如影像、**序列**（DNA/RNA/蛋白质）
 - NGS: DNA-seq、RNA-seq、Epigenetics、ChIP-seq……
